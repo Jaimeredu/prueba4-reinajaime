@@ -1,5 +1,7 @@
 # colegio
 
+**Jaime Reina Duran**
+
 JAVA: Jerarquía de clases
 
 **Proyecto Java para mostrar el trabajo con jerarquía de clases**.
