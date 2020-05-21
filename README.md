@@ -1,7 +1,7 @@
 # colegio
 
 **Jaime Reina Duran**
-
+**Fecha de nacimiento: 17/03/1999**
 JAVA: Jerarquía de clases
 
 **Proyecto Java para mostrar el trabajo con jerarquía de clases**.
