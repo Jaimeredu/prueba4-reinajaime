@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Tengo 21 años
+=======
+Hola me llamo jaime
+
